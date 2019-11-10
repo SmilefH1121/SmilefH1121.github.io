@@ -6,7 +6,7 @@
         }
         
         div.img {
-            background: url(/public_html/img/Heart.jpg);
+            background: url(/img/Heart.jpg);
         }
         
         div.body {
@@ -65,7 +65,7 @@
         
         footer {
             height: 40px;
-            background: url(/public_html/img/Podval.jpg);
+            background: url(/img/Podval.jpg);
             background-repeat: no-repeat;
             background-size: cover;
         }
