@@ -63,7 +63,7 @@
             color: white;
         }
         
-        footer {
+        div.footer {
             height: 40px;
             background: url(/img/podval.jpg);
             background-repeat: no-repeat;
